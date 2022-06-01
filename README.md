@@ -32,6 +32,9 @@ Steps Followed
 Details of files given
 
 1.Lead Score Case Study : The python file showing coding and data analysis
+
 2.Assignment Subjective Questions.pdf : Some subjective questions answered
+
 3.Lead Score Case Study.pdf : Final Presentation
+
 4.Leads Data Dictionary.xlsx : Data Dictionary
