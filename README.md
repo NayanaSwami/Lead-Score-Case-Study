@@ -8,15 +8,25 @@ An education company named X Education sells online courses to industry professi
 Steps Followed
 
 1.Reading Data
+
 2.Cleaning Data
+
 3.EDA
+
 4.Creating Dummy
+
 5.Splitting data into train and test set
+
 6.Building Model
+
 7.Making Predictions
+
 8.Model Evaluation
+
 8.ROC Curve
+
 9.Prediction on test set
+
 10.Precision- Recall
 
 Details of files given
